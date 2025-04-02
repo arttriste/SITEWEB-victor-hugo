@@ -1,0 +1,11 @@
+h1{
+  font-family: 'Ballet', cursive;
+}
+
+.container {
+            text-align: center; /* Centrer le texte */
+        }
+img {
+     max-width: 100%; /* Pour que l'image ne dépasse pas */
+     height: auto;
+ }
